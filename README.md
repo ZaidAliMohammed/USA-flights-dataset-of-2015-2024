@@ -1,5 +1,7 @@
 US Domestic Flights Dataset (2015–2024)
 
+Link to dataset: https://www.kaggle.com/datasets/zmesopotamia/us-domestic-flights-dataset-20152024
+
 A cleaned, analysis‑ready dataset containing 63,079,446 US domestic commercial flight records from January 2015 to December 2024. This dataset is derived from the US Department of Transportation’s Bureau of Transportation Statistics (BTS) and is in the public domain. It includes standardized flight‑level information such as carriers, airports, scheduled times, distances, and cancellation indicators — ideal for machine learning, time‑series analysis, and aviation research.
 
 Dataset Overview • Total rows: 63,079,446 • Total columns: 11 • File size: ~2.95 GB • Time span: 2015–2024 • Source: US DOT / BTS (public domain) • Format: CSV (cleaned, consistent schema)
